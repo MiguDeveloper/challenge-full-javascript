@@ -44,4 +44,5 @@ console.log(sumDigPowFast(90, 100));
 console.log(sumDigPowFast(90, 150));
 console.log(sumDigPowFast(50, 150));
 console.log(sumDigPowFast(10, 150));
+console.log(sumDigPowFast(600, 700));
 console.log(sumDigPowFast(987650, 987654));
