@@ -28,3 +28,7 @@ function differentiate(equation, point) {
 
 //differentiate('1000x^2+300x+200', 531);
 console.log(differentiate('1000x^2+300x+200', 531));
+
+const arr = [1, 2, 3];
+const sum = (a, b) => a + b;
+console.log(arr.reduce(sum, 0));
