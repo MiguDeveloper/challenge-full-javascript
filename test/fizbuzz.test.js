@@ -55,4 +55,8 @@ describe('FizzBuzz', () => {
     const result = fizzbuzz('kkk');
     expect(result).toBe(expected);
   });
+
+  it('test', () => {
+    expect(true).toBeTruthy();
+  });
 });
